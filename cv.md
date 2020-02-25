@@ -8,7 +8,6 @@
         a = 67.5;
         System.out.println("My weight is a " + a + " kilo");
         System.out.println();
-
         b =  a - (a / 100 * 17);
         System.out.println("On the moon my weight will be a " + b + " kilo");
     }
