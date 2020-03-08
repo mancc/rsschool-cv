@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mancc.github.io/rsschool-cv/cv
