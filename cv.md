@@ -19,7 +19,6 @@
         System.out.println("On the moon my weight will be a " + b + " kilo");
     
     }
-
 }
 6. HowProgrammingWorks KPI course, pythonworld course, CS50's Introduction to Computer Science course, HTML/CSS working experience.
 7. Belarusian State University, Faculty of Philosophy and Social Science, Psychology department.
