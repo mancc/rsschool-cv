@@ -3,12 +3,19 @@
 3. I have a goal of becoming a high-end android developer.
 4. Git, Java, Python, HTML/CSS.
 5. class Moon {
+    
     public static void main (String args[]) {
+        
         double a, b;
+        
         a = 67.5;
+        
         System.out.println("My weight is a " + a + " kilo");
+        
         System.out.println();
+        
         b =  a - (a / 100 * 17);
+        
         System.out.println("On the moon my weight will be a " + b + " kilo");
     }
 }
