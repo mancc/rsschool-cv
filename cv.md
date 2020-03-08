@@ -3,8 +3,8 @@
 3. I have a goal of becoming a high-end android developer.
 4. Git, Java, Python, HTML/CSS.
 5. class Moon {
-    
-    public static void main (String args[]) {
+   
+        public static void main (String args[]) {
         
         double a, b;
         
@@ -17,7 +17,9 @@
         b =  a - (a / 100 * 17);
         
         System.out.println("On the moon my weight will be a " + b + " kilo");
+    
     }
+
 }
 6. HowProgrammingWorks KPI course, pythonworld course, CS50's Introduction to Computer Science course, HTML/CSS working experience.
 7. Belarusian State University, Faculty of Philosophy and Social Science, Psychology department.
